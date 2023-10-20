@@ -1,11 +1,10 @@
-https://tute.io/install-configure-strapi-postgresql
-https://strapi.io/blog/strapi-authentication-in-nuxt-js
-https://quirky-heat-f4b.notion.site/Assessment-1957b1ad71f946868d7bb7e8ae4c4104
-https://strapi.io/blog/setting-up-a-nuxt-app-with-strapi-using-graphql-building-an-event-app
-https://quirky-heat-f4b.notion.site/Assessment-1957b1ad71f946868d7bb7e8ae4c4104
-
 http://localhost:1337/graphql
+# strapi login
 email: tmilos94@gmail.com
+password : Password1
+
+# front login
+email: boris@gmail.com
 password : Password1
 
 # 🚀 Getting started with Strapi
@@ -65,3 +64,10 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
+
+useful links:
+https://tute.io/install-configure-strapi-postgresql
+https://strapi.io/blog/strapi-authentication-in-nuxt-js
+https://quirky-heat-f4b.notion.site/Assessment-1957b1ad71f946868d7bb7e8ae4c4104
+https://strapi.io/blog/setting-up-a-nuxt-app-with-strapi-using-graphql-building-an-event-app
+https://quirky-heat-f4b.notion.site/Assessment-1957b1ad71f946868d7bb7e8ae4c4104
